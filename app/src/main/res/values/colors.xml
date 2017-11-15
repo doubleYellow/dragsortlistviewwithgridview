@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <drawable name="listview_division" >@color/blackAlpha0</drawable>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="baise">#FFFFFF</color>
+    <color name="huise_1">#81878E</color>
+    <color name="huise_5">#F0F2F4</color>
+    <color name="huise_6">#DEDEDD</color>
+    <color name="blackAlpha0">#00000000</color>
 </resources>

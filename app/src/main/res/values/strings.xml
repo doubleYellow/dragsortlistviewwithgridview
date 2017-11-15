@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DragSortListViewWithGridView</string>
+
+    <string name="str_dailayreport">如</string>
+    <string name="str_saleplan">果</string>
+    <string name="str_visitor">再</string>
+    <string name="str_from">看</string>
+    <string name="str_weixin_share_title">你</string>
+    <string name="str_sms_assis">一</string>
+    <string name="str_file_assistant">眼</string>
+    <string name="str_scan_card">是</string>
+    <string name="str_sell_adviser">否</string>
+    <string name="team_customer_name">还</string>
+    <string name="str_workmanage">会</string>
+    <string name="str_head_title_work_statis">有</string>
+    <string name="str_sale_orders">感</string>
+    <string name="str_saleplan_rank">觉</string>
+
+    <string name="str_sort_work_daily">日常应用</string>
+    <string name="str_sort_work_move">移动办公</string>
+    <string name="str_sort_work_sale">销售管理</string>
+    <string name="str_longclick_drag">(长按可拖拽)</string>
 </resources>

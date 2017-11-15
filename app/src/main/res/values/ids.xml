@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idsGroupID" type="id"></item>
+    <item name="idsChildID" type="id"></item>
+    <item name="drag_handle" type="id" />
+    <item name="drag_handleChild" type="id" />
+    <item name="chk_hide" type="id" />
+    <item name="click_remove" type="id" />
+    <item name="item_view" type="id" />
+    <item name="twowayview_item_click_support" type="id" />
+    <item name="scrollview" type="id" />
+    <item name="layChat" type="id" />
+</resources>
